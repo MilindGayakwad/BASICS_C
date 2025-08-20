@@ -25,8 +25,6 @@ int main() {
             default:
                 printf("Invalid choice, please try again.\n");
         }
-    }
-
     return 0;
 }
 
